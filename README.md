@@ -1,12 +1,12 @@
-🎭 Mad Libs – Random Story Generator
+ Mad Libs – Random Story Generator
 
-📌 About the Project
+ About the Project
 
 This is my first Python project: a simple interactive Mad Libs game that generates funny and unexpected stories based on user inputs.
 The program asks the user to enter five different inputs and randomly selects one story from 11 predefined story templates. The selected story is then displayed with the user's words highlighted in red.
 The goal of this project was to practise Python fundamentals while building a small interactive application.
 
-✨ Features
+ Features
 
 Accepts five user inputs:
 Thing
@@ -20,13 +20,13 @@ Randomly selects one story using Python's random module.
 Highlights user inputs in red using ANSI escape codes.
 Generates a different combination of funny stories based on user inputs.
 
-🛠️ Technologies Used
+ Technologies Used
 
 Python 3
 Python random module
 ANSI escape codes for coloured terminal output
 
-🧠 Python Concepts Practised
+ Python Concepts Practised
 
 Through this project, I practised:
 Variables
@@ -67,7 +67,7 @@ Apparently, they had a Hilarious plan to
 Dance all night!
 Note: The actual story is selected randomly, so your output may differ.
 
-📚 What I Learned
+ What I Learned
 
 Building this project helped me understand how different Python concepts can work together to create an interactive program.
 I gained practical experience with user input, lists, f-strings, modules and random selection. This is my first step in my Python programming journey, and I plan to keep building more projects as I learn new concepts.
